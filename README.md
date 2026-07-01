@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Aryanknitp/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Aryanknitp/Problem-Solving/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
