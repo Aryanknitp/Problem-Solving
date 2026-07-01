@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Aryanknitp/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
