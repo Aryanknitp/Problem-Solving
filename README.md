@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0001-two-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanknitp/Problem-Solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search
 |  |
@@ -45,4 +47,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Aryanknitp/Problem-Solving/tree/master/0077-combinations) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
