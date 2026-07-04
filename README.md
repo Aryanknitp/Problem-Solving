@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
 | [0135-candy](https://github.com/Aryanknitp/Problem-Solving/tree/master/0135-candy) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Aryanknitp/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0210-course-schedule-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
