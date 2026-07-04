@@ -1,21 +1,21 @@
 class Solution {
 public:
-    bool solve(int node, const vector<vector<int>>& adj, vector<bool>& visited,
-               vector<bool>& pathVisited) {
-        visited[node] = true;
-        pathVisited[node] = true;
+    bool solve(int node, const vector<vector<int>>& adj, vector<bool>& vis,
+               vector<bool>& pvis) {
+        vis[node] = true;
+        pvis[node] = true;
 
         for (auto neighbor : adj[node]) {
-            if (!visited[neighbor]) {
-                if (solve(neighbor, adj, visited, pathVisited)) {
+            if (!vis[neighbor]) {
+                if (solve(neighbor, adj, vis, pvis)) {
                     return true;
                 }
-            } else if (pathVisited[neighbor]) {
+            } else if (pvis[neighbor]) {
                 return true;
             }
         }
 
-        pathVisited[node] = false;
+        pvis[node] = false;
         return false;
     }
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
@@ -29,10 +29,10 @@ public:
         }
         vector<bool> vis(numCourses, false);
         vector<bool> pathvis(numCourses, false);
-          for (int i = 0; i < numCourses; i++) {
+        for (int i = 0; i < numCourses; i++) {
             if (!vis[i]) {
                 if (solve(i, adj, vis, pathvis)) {
-                    return false; 
+                    return false;
                 }
             }
         }
