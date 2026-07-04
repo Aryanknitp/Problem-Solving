@@ -75,9 +75,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Aryanknitp/Problem-Solving/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Aryanknitp/Problem-Solving/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Aryanknitp/Problem-Solving/tree/master/0076-minimum-window-substring) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Aryanknitp/Problem-Solving/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
