@@ -34,7 +34,7 @@ public:
                             max_score = dp_score[ni][nj];
                             path_count = dp_paths[ni][nj];
                         } else if (dp_score[ni][nj] == max_score) {
-                            path_count = (path_count + dp_paths[ni][nj]) % MOD;
+                            path_count = (path_count + (dp_paths[ni][nj])%MOD) % MOD;
                         }
                     }
                 }
