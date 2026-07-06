@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanknitp/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0135-candy](https://github.com/Aryanknitp/Problem-Solving/tree/master/0135-candy) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 ## Math
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Aryanknitp/Problem-Solving/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aryanknitp/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Linked List
@@ -125,8 +128,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
