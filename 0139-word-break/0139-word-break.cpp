@@ -1,8 +1,9 @@
 class Solution {
 public:
     bool wordBreak(string s, vector<string>& wordDict) {
+        //  simple solution using 1D array
         // using set and dp solution
-        //.. store ans at the last index of strign length
+        //.. store ans at the last index of dp array 
         unordered_set<string> st;
         int mlen = 0;
         for (int i = 0; i < wordDict.size(); i++) {
@@ -14,8 +15,8 @@ public:
         vector<int> dp(n + 1);
         dp[0] = true;
         for (int i = 1; i <= n; i++) {
-            for (int j = i-1; j >= max(0, i - mlen); j--) {
-                if (dp[j] && st.contains(s.substr(j, i-j))) {
+            for (int j = i - 1; j >= max(0, i - mlen); j--) {
+                if (dp[j] && st.contains(s.substr(j, i - j))) {
                     dp[i] = true;
                     break;
                 }
