@@ -85,12 +85,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0207-course-schedule](https://github.com/Aryanknitp/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Aryanknitp/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0207-course-schedule](https://github.com/Aryanknitp/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Aryanknitp/Problem-Solving/tree/master/0149-max-points-on-a-line) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
