@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Aryanknitp/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/Aryanknitp/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanknitp/Problem-Solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Enumeration
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aryanknitp/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aryanknitp/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 ## Backtracking
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Aryanknitp/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0071-simplify-path](https://github.com/Aryanknitp/Problem-Solving/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Aryanknitp/Problem-Solving/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
