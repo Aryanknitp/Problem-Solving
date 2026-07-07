@@ -11,7 +11,6 @@
  * };
  */
 class BSTIterator {
-public:
 private:
     std::stack<TreeNode*> st;
 
