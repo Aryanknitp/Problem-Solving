@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Aryanknitp/Problem-Solving/tree/master/0135-candy) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryanknitp/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1288-remove-covered-intervals](https://github.com/Aryanknitp/Problem-Solving/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanknitp/Problem-Solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryanknitp/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Binary Search
