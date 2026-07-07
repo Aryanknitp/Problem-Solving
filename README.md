@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Aryanknitp/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryanknitp/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [1046-last-stone-weight](https://github.com/Aryanknitp/Problem-Solving/tree/master/1046-last-stone-weight) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -163,10 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0295-find-median-from-data-stream](https://github.com/Aryanknitp/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
+| [0295-find-median-from-data-stream](https://github.com/Aryanknitp/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [1288-remove-covered-intervals](https://github.com/Aryanknitp/Problem-Solving/tree/master/1288-remove-covered-intervals) |
 ## Monotonic Stack
 |  |
@@ -200,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Aryanknitp/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Aryanknitp/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
