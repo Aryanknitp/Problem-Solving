@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Aryanknitp/Problem-Solving/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Aryanknitp/Problem-Solving/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryanknitp/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryanknitp/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Aryanknitp/Problem-Solving/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/Aryanknitp/Problem-Solving/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryanknitp/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
