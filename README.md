@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0097-interleaving-string](https://github.com/Aryanknitp/Problem-Solving/tree/master/0097-interleaving-string) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aryanknitp/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0071-simplify-path](https://github.com/Aryanknitp/Problem-Solving/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Aryanknitp/Problem-Solving/tree/master/0076-minimum-window-substring) |
+| [0097-interleaving-string](https://github.com/Aryanknitp/Problem-Solving/tree/master/0097-interleaving-string) |
 ## Sliding Window
 |  |
 | ------- |
