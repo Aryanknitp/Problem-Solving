@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Aryanknitp/Problem-Solving/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aryanknitp/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Aryanknitp/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aryanknitp/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/Aryanknitp/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aryanknitp/Problem-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/Aryanknitp/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 ## Topological Sort
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aryanknitp/Problem-Solving/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/Aryanknitp/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/Aryanknitp/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -221,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aryanknitp/Problem-Solving/tree/master/0146-lru-cache) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aryanknitp/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Aryanknitp/Problem-Solving/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
