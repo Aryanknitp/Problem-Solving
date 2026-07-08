@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryanknitp/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [1046-last-stone-weight](https://github.com/Aryanknitp/Problem-Solving/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/Aryanknitp/Problem-Solving/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0207-course-schedule](https://github.com/Aryanknitp/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
+| [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
