@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanknitp/Problem-Solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanknitp/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Aryanknitp/Problem-Solving/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Aryanknitp/Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanknitp/Problem-Solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanknitp/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanknitp/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanknitp/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanknitp/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanknitp/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
 |  |
 | ------- |
