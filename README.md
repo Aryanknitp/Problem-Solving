@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Aryanknitp/Problem-Solving/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Aryanknitp/Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryanknitp/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0212-word-search-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Aryanknitp/Problem-Solving/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Aryanknitp/Problem-Solving/tree/master/0077-combinations) |
+| [0212-word-search-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0212-word-search-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/Aryanknitp/Problem-Solving/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Aryanknitp/Problem-Solving/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Aryanknitp/Problem-Solving/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0212-word-search-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Aryanknitp/Problem-Solving/tree/master/0139-word-break) |
+| [0212-word-search-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
