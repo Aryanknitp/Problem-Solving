@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryanknitp/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
+| [0576-out-of-boundary-paths](https://github.com/Aryanknitp/Problem-Solving/tree/master/0576-out-of-boundary-paths) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryanknitp/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
