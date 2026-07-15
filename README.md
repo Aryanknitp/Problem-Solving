@@ -279,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryanknitp/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Aryanknitp/Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
