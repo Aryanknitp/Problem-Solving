@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Aryanknitp/Problem-Solving/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryanknitp/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/Aryanknitp/Problem-Solving/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Aryanknitp/Problem-Solving/tree/master/0576-out-of-boundary-paths) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryanknitp/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aryanknitp/Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0149-max-points-on-a-line](https://github.com/Aryanknitp/Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aryanknitp/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
+| [0279-perfect-squares](https://github.com/Aryanknitp/Problem-Solving/tree/master/0279-perfect-squares) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aryanknitp/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Aryanknitp/Problem-Solving/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Aryanknitp/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/Aryanknitp/Problem-Solving/tree/master/0279-perfect-squares) |
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
