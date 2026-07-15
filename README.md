@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Aryanknitp/Problem-Solving/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Aryanknitp/Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryanknitp/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0763-partition-labels](https://github.com/Aryanknitp/Problem-Solving/tree/master/0763-partition-labels) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanknitp/Problem-Solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanknitp/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Enumeration
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Aryanknitp/Problem-Solving/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/Aryanknitp/Problem-Solving/tree/master/0502-ipo) |
+| [0763-partition-labels](https://github.com/Aryanknitp/Problem-Solving/tree/master/0763-partition-labels) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Aryanknitp/Problem-Solving/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryanknitp/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0763-partition-labels](https://github.com/Aryanknitp/Problem-Solving/tree/master/0763-partition-labels) |
 ## Sliding Window
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/Aryanknitp/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+| [0763-partition-labels](https://github.com/Aryanknitp/Problem-Solving/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
