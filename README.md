@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0097-interleaving-string](https://github.com/Aryanknitp/Problem-Solving/tree/master/0097-interleaving-string) |
+| [0131-palindrome-partitioning](https://github.com/Aryanknitp/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aryanknitp/Problem-Solving/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Aryanknitp/Problem-Solving/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Aryanknitp/Problem-Solving/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Aryanknitp/Problem-Solving/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/Aryanknitp/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0212-word-search-ii) |
 ## Breadth-First Search
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Aryanknitp/Problem-Solving/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/Aryanknitp/Problem-Solving/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Aryanknitp/Problem-Solving/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Aryanknitp/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Aryanknitp/Problem-Solving/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryanknitp/Problem-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
