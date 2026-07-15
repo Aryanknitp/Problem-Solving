@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Aryanknitp/Problem-Solving/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Aryanknitp/Problem-Solving/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/Aryanknitp/Problem-Solving/tree/master/0584-find-customer-referee) |
 | [1280-students-and-examinations](https://github.com/Aryanknitp/Problem-Solving/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryanknitp/Problem-Solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
