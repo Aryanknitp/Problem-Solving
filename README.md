@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Aryanknitp/Problem-Solving/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aryanknitp/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0502-ipo](https://github.com/Aryanknitp/Problem-Solving/tree/master/0502-ipo) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Aryanknitp/Problem-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryanknitp/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1046-last-stone-weight](https://github.com/Aryanknitp/Problem-Solving/tree/master/1046-last-stone-weight) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Aryanknitp/Problem-Solving/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/Aryanknitp/Problem-Solving/tree/master/0502-ipo) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Aryanknitp/Problem-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0763-partition-labels](https://github.com/Aryanknitp/Problem-Solving/tree/master/0763-partition-labels) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Segment Tree
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Aryanknitp/Problem-Solving/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryanknitp/Problem-Solving/tree/master/0300-longest-increasing-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/Aryanknitp/Problem-Solving/tree/master/0576-out-of-boundary-paths) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Aryanknitp/Problem-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryanknitp/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
 | [0295-find-median-from-data-stream](https://github.com/Aryanknitp/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/Aryanknitp/Problem-Solving/tree/master/0502-ipo) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Aryanknitp/Problem-Solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [1288-remove-covered-intervals](https://github.com/Aryanknitp/Problem-Solving/tree/master/1288-remove-covered-intervals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryanknitp/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
