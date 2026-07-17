@@ -13,8 +13,14 @@ class dsu{
      void unite(int i,int j) {
          int ri= find(i);
          int rj = find(j);
-         if(ri!=rj) {
+         if(ri<rj) {
             p[ri] = rj;
+         }
+         else if(ri>rj){
+             p[rj] = ri;
+         }
+         else{
+             p[ri] = rj;
          }
      }
 };
