@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryanknitp/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1046-last-stone-weight](https://github.com/Aryanknitp/Problem-Solving/tree/master/1046-last-stone-weight) |
+| [1254-number-of-closed-islands](https://github.com/Aryanknitp/Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/Aryanknitp/Problem-Solving/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aryanknitp/Problem-Solving/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Aryanknitp/Problem-Solving/tree/master/0279-perfect-squares) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aryanknitp/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/Aryanknitp/Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aryanknitp/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
+| [1254-number-of-closed-islands](https://github.com/Aryanknitp/Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aryanknitp/Problem-Solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aryanknitp/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [1254-number-of-closed-islands](https://github.com/Aryanknitp/Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -251,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Aryanknitp/Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aryanknitp/Problem-Solving/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
