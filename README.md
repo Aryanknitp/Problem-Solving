@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Aryanknitp/Problem-Solving/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/Aryanknitp/Problem-Solving/tree/master/0172-factorial-trailing-zeroes) |
 | [0279-perfect-squares](https://github.com/Aryanknitp/Problem-Solving/tree/master/0279-perfect-squares) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aryanknitp/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aryanknitp/Problem-Solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Backtracking
 |  |
@@ -297,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Aryanknitp/Problem-Solving/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aryanknitp/Problem-Solving/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aryanknitp/Problem-Solving/tree/master/1757-recyclable-and-low-fat-products) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Aryanknitp/Problem-Solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
