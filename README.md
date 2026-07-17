@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Aryanknitp/Problem-Solving/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Aryanknitp/Problem-Solving/tree/master/0057-insert-interval) |
+| [0134-gas-station](https://github.com/Aryanknitp/Problem-Solving/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aryanknitp/Problem-Solving/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/Aryanknitp/Problem-Solving/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/Aryanknitp/Problem-Solving/tree/master/0149-max-points-on-a-line) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Aryanknitp/Problem-Solving/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aryanknitp/Problem-Solving/tree/master/0135-candy) |
 | [0502-ipo](https://github.com/Aryanknitp/Problem-Solving/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryanknitp/Problem-Solving/tree/master/0646-maximum-length-of-pair-chain) |
