@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Aryanknitp/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0502-ipo](https://github.com/Aryanknitp/Problem-Solving/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryanknitp/Problem-Solving/tree/master/0646-maximum-length-of-pair-chain) |
+| [0885-spiral-matrix-iii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0885-spiral-matrix-iii) |
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryanknitp/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1046-last-stone-weight](https://github.com/Aryanknitp/Problem-Solving/tree/master/1046-last-stone-weight) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aryanknitp/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
+| [0885-spiral-matrix-iii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0885-spiral-matrix-iii) |
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [1254-number-of-closed-islands](https://github.com/Aryanknitp/Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
+| [0885-spiral-matrix-iii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0885-spiral-matrix-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryanknitp/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
