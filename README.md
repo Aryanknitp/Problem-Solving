@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanknitp/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Aryanknitp/Problem-Solving/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/Aryanknitp/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Aryanknitp/Problem-Solving/tree/master/0057-insert-interval) |
 | [0134-gas-station](https://github.com/Aryanknitp/Problem-Solving/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aryanknitp/Problem-Solving/tree/master/0135-candy) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aryanknitp/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0212-word-search-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Aryanknitp/Problem-Solving/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aryanknitp/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/Aryanknitp/Problem-Solving/tree/master/0289-game-of-life) |
 | [0885-spiral-matrix-iii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0885-spiral-matrix-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aryanknitp/Problem-Solving/tree/master/3867-sum-of-gcd-of-formed-pairs) |
