@@ -1,26 +1,32 @@
 class Solution {
 public:
-    void find(vector<int>& nums, set<vector<int>>& ans, int s, int n) {
+    void find(vector<int>& nums, vector<vector<int>>& ans, int idx, int n) {
 
-        if (s == n) {
-            ans.insert(nums);
+        if (idx == n) {
+            ans.push_back(nums);
             return;
         }
-        for (int i = s; i < n; i++) {
-            swap(nums[s], nums[i]);
-            find(nums, ans, s + 1, n);
-            swap(nums[s], nums[i]);
+        unordered_set<int> used;
+
+        for (int i = idx; i < nums.size(); i++) {
+
+            if (used.count(nums[i]))
+                continue;
+
+            used.insert(nums[i]);
+
+            swap(nums[idx], nums[i]);
+
+            find(nums, ans, idx + 1, n);
+
+            swap(nums[idx], nums[i]);
         }
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        set<vector<int>> ans;
+        vector<vector<int>> ans;
         int n = nums.size();
-        // vector<int> temp;
         find(nums, ans, 0, n);
-        vector<vector<int>> res;
-        for (auto it : ans) {
-            res.push_back(it);
-        }
-        return res;
+        // vector<vector<int>> res;
+        return ans;
     }
 };
