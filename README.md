@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanknitp/Problem-Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Aryanknitp/Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Aryanknitp/Problem-Solving/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Aryanknitp/Problem-Solving/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Aryanknitp/Problem-Solving/tree/master/0057-insert-interval) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Aryanknitp/Problem-Solving/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Aryanknitp/Problem-Solving/tree/master/0077-combinations) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aryanknitp/Problem-Solving/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0047-permutations-ii) |
 | [0295-find-median-from-data-stream](https://github.com/Aryanknitp/Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/Aryanknitp/Problem-Solving/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryanknitp/Problem-Solving/tree/master/0646-maximum-length-of-pair-chain) |
