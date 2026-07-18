@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aryanknitp/Problem-Solving/tree/master/0918-maximum-sum-circular-subarray) |
 | [1046-last-stone-weight](https://github.com/Aryanknitp/Problem-Solving/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aryanknitp/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aryanknitp/Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/Aryanknitp/Problem-Solving/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Aryanknitp/Problem-Solving/tree/master/0279-perfect-squares) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Aryanknitp/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aryanknitp/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aryanknitp/Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Aryanknitp/Problem-Solving/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Aryanknitp/Problem-Solving/tree/master/0417-pacific-atlantic-water-flow) |
 | [0885-spiral-matrix-iii](https://github.com/Aryanknitp/Problem-Solving/tree/master/0885-spiral-matrix-iii) |
 | [0909-snakes-and-ladders](https://github.com/Aryanknitp/Problem-Solving/tree/master/0909-snakes-and-ladders) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aryanknitp/Problem-Solving/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Aryanknitp/Problem-Solving/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/Aryanknitp/Problem-Solving/tree/master/1301-number-of-paths-with-max-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aryanknitp/Problem-Solving/tree/master/3286-find-a-safe-walk-through-a-grid) |
